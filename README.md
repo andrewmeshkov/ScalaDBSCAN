@@ -1,0 +1,2 @@
+# ScalaDBSCAN
+Simple clustering algorithm
